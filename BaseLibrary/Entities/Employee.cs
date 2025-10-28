@@ -9,7 +9,7 @@ namespace BaseLibrary.Entities
     public class Employee
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public string? CivilId { get; set; }
         
         public string? FileNumber { get; set; }
@@ -27,6 +27,7 @@ namespace BaseLibrary.Entities
         public string? Other { get; set; }
 
         // Relationship: Many to One
+        //Many employees are related to the below (e.g. GeneralDepartment...etc)
         public GeneralDepartment? GeneralDepartment { get; set; }
         public int GeneralDepartmentId { get; set; }
         public Department? Department { get; set; }
@@ -35,5 +36,5 @@ namespace BaseLibrary.Entities
         public int BranchId { get; set; }
         public Town? Town { get; set; }
         public int TownId { get; set; }
-}
+} 
 }

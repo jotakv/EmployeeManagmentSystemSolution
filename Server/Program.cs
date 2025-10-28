@@ -10,6 +10,14 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+//starting...
+builder.Services.AddDbContext<AppDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection") ?? 
+        throw new InvalidCastException("Sorry, your connection is not found"));
+});
+
 //starting
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //{

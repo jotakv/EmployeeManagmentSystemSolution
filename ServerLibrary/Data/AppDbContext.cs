@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ServerLibrary.Data
 {
+    //DbSet<T>  --Manages Tables using EF core
+    //Create a table named after this model, and use its properties as columns.
     public class AppDbContext(DbContextOptions<AppDbContext> options): DbContext(options)
     {
         public DbSet<Employee> Employees { get; set; }
