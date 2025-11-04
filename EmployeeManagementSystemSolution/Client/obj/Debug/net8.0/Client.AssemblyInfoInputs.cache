@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 238076106256d96755a9fccdc40c0e7e5746ff7e3992309d7e60cc22787f4b13
+=======
+c59b47ee17baab2874767987b8796dc42554b412c36c9a66326065797eec0de6
+>>>>>>> 7975336 (chore(migrations): add initial dependencies and setup migration configuration)

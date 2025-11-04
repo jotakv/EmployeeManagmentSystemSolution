@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95c79e7d791c7ae1b9b0b69d28d90ae9e700df6c")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff4d8f9bdbe8f236cfbd39a6528dfd6911bb9cf")]
+>>>>>>> 7975336 (chore(migrations): add initial dependencies and setup migration configuration)
 [assembly: System.Reflection.AssemblyProductAttribute("ClientLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

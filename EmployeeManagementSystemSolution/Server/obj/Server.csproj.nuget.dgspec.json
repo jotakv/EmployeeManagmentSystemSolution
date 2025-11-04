@@ -102,7 +102,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Hector\\Source\\Repos\\EmployeeManagementSystem\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hector\\Source\\Repos\\EmployeeManagementSystem\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

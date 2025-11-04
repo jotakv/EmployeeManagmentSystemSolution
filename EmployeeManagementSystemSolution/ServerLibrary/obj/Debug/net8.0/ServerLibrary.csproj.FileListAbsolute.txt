@@ -32,3 +32,9 @@ C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSo
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache

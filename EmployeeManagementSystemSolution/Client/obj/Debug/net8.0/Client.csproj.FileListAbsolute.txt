@@ -3150,8 +3150,6 @@ C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSo
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\927plkmk2o-tptq2av103.gz
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\fv852almvh-lfu7j35m59.gz
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\ga4tohpf6k-oyz0vx2fzb.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\ukduhg43tv-xdce57i3i7.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\bjjxs8ewny-52z8frwwcs.gz
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\staticwebassets.development.json
@@ -3167,8 +3165,10 @@ C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSo
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\0ui6idr74w-d25f1jjh2g.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\3ucl1dmfga-daj78qyrs5.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\emid24cbep-c8g334a1x2.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\kb90l4x90i-3j6zi7e1v0.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-31udlgtfml.gz
-C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-wm7z8yiblc.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\3ucl1dmfga-zanp44tj8i.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\ukduhg43tv-fkp5mh7voh.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\emid24cbep-n3x4901bjg.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\bjjxs8ewny-w6kb515pod.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\kb90l4x90i-1lcjbshoj1.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\nrce2f7bjz-5sdy8p6rg6.gz
+C:\Users\Hector\Source\Repos\EmployeeManagementSystem\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\0kih5qk3hm-hd9040f36k.gz
